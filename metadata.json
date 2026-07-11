@@ -1,0 +1,6 @@
+{
+  "name": "AURA Career AI",
+  "description": "An autonomous AI career operating system featuring specialized AI agents for resume intelligence, interview coaching, skill gap analysis, job matching, learning planning, and portfolio review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
